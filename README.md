@@ -2,7 +2,7 @@ Visualization of data about Countries.
 ## Features
 - Interactive menu for selecting countries, indicators, and time ranges
 - Multiple chart types: Line Chart, Bar Chart, Scatter Plot
-- Ability to compare multiple countries (when indicators are: area (sq km) and population)
+- Ability to compare multiple countries
 - Visualizations for specific indicators including temperature change, land cover, forest carbon, and disasters
 
 ## Technologies Used
