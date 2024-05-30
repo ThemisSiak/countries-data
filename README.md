@@ -1,4 +1,10 @@
 Visualization of data about Countries.
+## Demo Video
+Demo video is in 4 parts on Youtube:
+
+Unfortunately, i couldn't capture in one video the whole Application, because i couldn't change apps. Because of that in the end the results aren't shown.
+There are some examples of the results in the FinalReport.pdf
+
 ## Features
 - Interactive menu for selecting countries, indicators, and time ranges
 - Multiple chart types: Line Chart, Bar Chart, Scatter Plot
