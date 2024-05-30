@@ -19,6 +19,6 @@ Visualization of data about Countries.
 - JavaFX SDK
 - MySQL Connector/J (JDBC driver)
 
-- Run the MainMenu class as a Java application.
+## Run the MainMenu class as a Java application.
 
-- Project Developer: Themistokleia Siakavara, 4786
+##Project Developer: Themistokleia Siakavara, 4786
