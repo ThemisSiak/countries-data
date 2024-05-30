@@ -27,4 +27,4 @@ There are some examples of the results in the FinalReport.pdf
 
 ## Run the MainMenu class as a Java application.
 
-##Project Developer: Themistokleia Siakavara, 4786
+## Project Developer: Themistokleia Siakavara, 4786
