@@ -1,9 +1,10 @@
-Visualization of data about Countries.
+#### **Visualization of data about Countries.**
+
 ## Demo Video
-Demo video is in 4 parts on Youtube: https://www.youtube.com/watch?v=di--13gMfuU&list=PLADjsxMYD7_2xvngXH9vxImTL8wkVkZpE&ab_channel=ThemisS
+Demo video, in Greek, is in 4 parts on Youtube: https://www.youtube.com/watch?v=di--13gMfuU&list=PLADjsxMYD7_2xvngXH9vxImTL8wkVkZpE&ab_channel=ThemisS
 
 Unfortunately, i couldn't capture in one video the whole Application, because i couldn't change apps. Because of that in the end the results aren't shown.
-There are some examples of the results in the FinalReport.pdf
+There are some examples of the results in the FinalReport.pdf, a report written in Greek.
 
 ## Features
 - Interactive menu for selecting countries, indicators, and time ranges
@@ -14,8 +15,8 @@ There are some examples of the results in the FinalReport.pdf
 ## Technologies Used
 - Java
 - Eclipse
-- JavaFX for GUI
 - MySQL for the database
+- JavaFX for GUI
 - JDBC for database connectivity
 
 ## Prerequisites
@@ -25,6 +26,34 @@ There are some examples of the results in the FinalReport.pdf
 - JavaFX SDK
 - MySQL Connector/J (JDBC driver)
 
-## Run the MainMenu class as a Java application.
+## How to run
+To confirm proper operation:
+- First: Right click on "MainApp.java" -> Run as -> Run Configurations
+- In the window that opens, select the “Arguments” tab and 
+in VM arguments, select Variables. 
+- Click edit variables → New: --module-path
+"C:/Users/path of javafx library/javafx-sdk-22.0.1/lib" --add-modules
+javafx.controls,javafx.fxml
+- Apply
+- Close
 
-## Project Developer: Themistokleia Siakavara, 4786
+Afer the confirmation:
+- Right click on "MainMenu.java" and Run as Java Application.
+
+## Usage
+Consider you want to see the Temperature Changes in Albania from 1961 to 2022.
+In the first window that appears you select these:
+- First selection is the indicator: **Temperature Change**
+- Second selection is start date (default is 1961): **1961**
+- Third selection is end date (default is 2022): **2022**
+- Fourth selection is graph type: **Line Chart**
+- Fifth selection is type of natural disaster (available only if indicator = Disasters): -
+- Last window is the countries (multiple choice option with CTRL button pressed): **Albania**
+
+
+Tap "Submit" button
+
+A chart graph appears on screen with the results.
+
+## Project Developer
+- Themistokleia Siakavara, 4786
