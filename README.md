@@ -1,4 +1,4 @@
-#### **Visualization of data about Countries.**
+## **Visualization of data about Countries.**
 
 ## Demo Video
 Demo video, in Greek, is in 4 parts on Youtube: https://www.youtube.com/watch?v=di--13gMfuU&list=PLADjsxMYD7_2xvngXH9vxImTL8wkVkZpE&ab_channel=ThemisS
@@ -50,14 +50,14 @@ In the first window that appears you select these:
 - Fifth selection is type of natural disaster (available only if indicator = Disasters): -
 - Last window is the countries (multiple choice option with CTRL button pressed): **Albania**
 <p align="center">
-  <img src="./FirstWindow.png" alt="Preview" width="200"/>
+  <img src="./countries-data-application/src/FirstWindow.png" alt="Preview" width="2000"/>
 </p>
 
 Tap "Submit" button
 
 A chart graph appears on screen with the results.
 <p align="center">
-  <img src="./TemperatureChange.png" alt="Preview" width="200"/>
+  <img src="./countries-data-application/src/TemperatureChange.png" alt="Preview" width="2000"/>
 </p>
 
 We can also select multiple Countries to compare. For example:
@@ -71,7 +71,7 @@ We can also select multiple Countries to compare. For example:
 Tap "Submit" button.
 A bar chart appears on screen with the results.
 <p align="center">
-  <img src="./ClimateDisasters.png" alt="Preview" width="200"/>
+  <img src="./countries-data-application/src/ClimateDisasters.png" alt="Preview" width="2000"/>
 </p>
 
 ## Project Developer
