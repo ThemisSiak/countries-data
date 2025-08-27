@@ -49,11 +49,30 @@ In the first window that appears you select these:
 - Fourth selection is graph type: **Line Chart**
 - Fifth selection is type of natural disaster (available only if indicator = Disasters): -
 - Last window is the countries (multiple choice option with CTRL button pressed): **Albania**
-
+<p align="center">
+  <img src="./FirstWindow.png" alt="Preview" width="200"/>
+</p>
 
 Tap "Submit" button
 
 A chart graph appears on screen with the results.
+<p align="center">
+  <img src="./TemperatureChange.png" alt="Preview" width="200"/>
+</p>
+
+We can also select multiple Countries to compare. For example:
+- First selection is the indicator: **Disasters**
+- Second selection is start date (default is 1961): **2000**
+- Third selection is end date (default is 2022): **2022**
+- Fourth selection is graph type: **Bar Chart**
+- Fifth selection is type of natural disaster (available only if indicator = Disasters): **TOTAL**
+- Last window is the countries (multiple choice option with CTRL button pressed): **Greece**, **Maldives**, **South Africa**
+
+Tap "Submit" button.
+A bar chart appears on screen with the results.
+<p align="center">
+  <img src="./ClimateDisasters.png" alt="Preview" width="200"/>
+</p>
 
 ## Project Developer
 - Themistokleia Siakavara, 4786
